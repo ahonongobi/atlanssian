@@ -1,0 +1,40 @@
+ .card{
+width: 30rem;
+ }
+ .card:hover{
+     box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253)!important;
+ }
+ .btn1{
+    border-color: #4CAF50;
+    color: green;
+  }
+  .btn1:hover{
+    background-color: #4CAF50 ;
+    color: white;
+    text-decoration: none;
+  }
+  .gobi__{
+    border-radius: 15px;
+    border: 2px solid green;
+    background-color: #f6efe8;
+     color: green;
+    
+     padding: 14px 28px;
+     font-size: 16px;
+     cursor: pointer;
+     text-decoration: none;
+  }
+  .card-img-top{
+      width: 300px;
+  }
+  card-body{
+      padding: 3rem 0 !important;
+
+  }
+  .card-text{
+font-size: 0.9rem;
+padding: 0.4rem 1.9rem;
+  }
+  .container-fluid .row{
+      padding-top: 6rem;
+  }
